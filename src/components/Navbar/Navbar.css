@@ -1,0 +1,12 @@
+.nav-container {
+	background-color: rgb(8, 36, 112);
+	padding: 1rem 0.6rem;
+	display: flex;
+	justify-content: center;
+
+}
+.link{
+	text-decoration: none;
+	color: wheat;
+	margin-left: 2rem;
+}
